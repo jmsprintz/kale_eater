@@ -1,0 +1,48 @@
+Mono path[0] = 'C:/Users/Jake/Desktop/Kale_eater/PC Build/pcbuild_Data/Managed'
+Mono path[1] = 'C:/Users/Jake/Desktop/Kale_eater/PC Build/pcbuild_Data/Mono'
+Mono config path = 'C:/Users/Jake/Desktop/Kale_eater/PC Build/pcbuild_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Jake/Desktop/Kale_eater/PC Build/pcbuild_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55498
+Multi-casting "[IP] 192.168.75.1 [Port] 55498 [Flags] 2 [Guid] 2972771914 [EditorId] 4111824483 [Version] 1048832 [Id] WindowsPlayer(Jakespc) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.75.1:55498]
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jake\Desktop\Kale_eater\PC Build\pcbuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jake\Desktop\Kale_eater\PC Build\pcbuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jake\Desktop\Kale_eater\PC Build\pcbuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jake\Desktop\Kale_eater\PC Build\pcbuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jake\Desktop\Kale_eater\PC Build\pcbuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jake\Desktop\Kale_eater\PC Build\pcbuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jake\Desktop\Kale_eater\PC Build\pcbuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jake\Desktop\Kale_eater\PC Build\pcbuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jake\Desktop\Kale_eater\PC Build\pcbuild_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.872 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Jake\Desktop\Kale_eater\PC Build\pcbuild_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2b04 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 65.196762 ms
+System memory in use before: 135.4 MB.
+System memory in use after: 135.4 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 8.661711 ms (FindLiveObjects: 0.056022 ms CreateObjectMapping: 0.046614 ms MarkObjects: 8.534697 ms  DeleteObjects: 0.021382 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 29.695463 ms
+System memory in use before: 135.6 MB.
+System memory in use after: 135.6 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.686385 ms (FindLiveObjects: 0.065431 ms CreateObjectMapping: 0.045331 ms MarkObjects: 0.516178 ms  DeleteObjects: 0.051746 ms)
+
